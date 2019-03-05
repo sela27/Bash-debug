@@ -1,3 +1,8 @@
+authers:
+Rivka Revivo
+Ron Mor
+Sela Goldenberg
+
 # Bash-debug
 Task 1 - Bash cpp
 
